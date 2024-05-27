@@ -33,16 +33,7 @@ Transfer learning is a machine learning method where knowledge gained from solvi
 1.![Screenshot 2023-11-07 091132](https://github.com/Kopal05/Fashion-Recommender-system/blob/main/assets/Screenshot%20(242).png)
 
 
-2.![Screenshot 2023-11-07 091156]()
-
-
-3.![Screenshot 2023-11-07 091209](https://github.com/Kopal05/Face-Recognition/blob/main/assets/Sshots/IMG-20240507-WA0009.jpg)
-
-4.![Screenshot 2023-11-07 091209](https://github.com/Kopal05/Face-Recognition/blob/main/assets/Sshots/IMG-20240507-WA0005.jpg)
-
-5.![Screenshot 2023-11-07 091209](https://github.com/Kopal05/Face-Recognition/blob/main/assets/Sshots/IMG-20240507-WA0011.jpg)
-
-
+2.![Screenshot 2023-11-07 091156](https://github.com/Kopal05/Fashion-Recommender-system/blob/main/assets/Screenshot%20(243).png)
 
 
 
