@@ -17,6 +17,7 @@ git clone
 
 download required files and packages
 use pycharm or jupyter notebook and run the program
+Download the dataset from this link: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 
 
